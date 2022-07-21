@@ -8,4 +8,9 @@
 ### Carrera: 
 - Ingeniería en Biotecnología
 # EXPLICACIÓN DE LA TAREA
-En esta actividad se solocita realizar los cálculos de las medias, desviaciones estandar de la data iris para graficar las curvas de distribución normal con sus respectivas leyendas en cada uno de los ejes.
+En esta actividad se solocita realizar los cálculos de las medias, desviaciones estandar de la data iris:
+- SepalLengthCm
+- SepalWidthCm
+- PetalLengthCm
+- PetalWidthCm
+Con los datos obtenidos se procedió a  graficar las curvas de distribución normal con sus respectivas leyendas en cada uno de los ejes.
