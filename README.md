@@ -13,4 +13,5 @@ En esta actividad se solocita realizar los cálculos de las medias, desviaciones
 - SepalWidthCm
 - PetalLengthCm
 - PetalWidthCm
+
 Con los datos obtenidos se procedió a  graficar las curvas de distribución normal con sus respectivas leyendas en cada uno de los ejes.
